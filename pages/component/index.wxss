@@ -1,16 +1,2 @@
 /* pages/component/index.wxss */
-.index-hd {
-  padding: 80rpx;
-  text-align: center;
-}
-
-.index-logo {
-  width: 86rpx;
-  height: 86rpx;
-}
-
-.index-desc{
-  margin-top: 20rpx;
-  color: #888;
-  font-size: 28rpx;
-}
+@import "../common/index.wxss"
